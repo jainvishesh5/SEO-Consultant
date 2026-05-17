@@ -1,8 +1,4 @@
-Here is the complete, raw Markdown code for your `README.md` file. It includes the structural architecture breakdown, the file map, and installation steps.
 
-Copy and paste this exact block directly into your file:
-
-```markdown
 # Parallel Multi-Agent SEO Analysis Engine 🚀
 
 An advanced, asynchronous AI agent orchestration framework built with **CrewAI Flows**, **Python 3.12**, and **Streamlit**. 
