@@ -1,0 +1,4 @@
+SEOenv/
+__pycache__/
+*.pyc
+.env
